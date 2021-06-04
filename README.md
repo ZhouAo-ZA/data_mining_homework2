@@ -1,15 +1,12 @@
-# DataMining_homework_for_wine-reviews-oakland-crime-statistics-2011-to-2016
-    2020数据挖掘大作业，对wine-reviews和oakland-crime-statistics-2011-to-2016这两个数据集进行数据探索性分析与数据预处理。
+# DataMining_homework_for_wine-reviews
+# data_mining_homework_2
+频繁模式和关联规则挖掘
+3. 数据分析要求
+对数据集进行处理，转换成适合进行关联规则挖掘的形式；
+找出频繁模式；
+导出关联规则，计算其支持度和置信度;
+对规则进行评价，可使用Lift、卡方和其它教材中提及的指标, 至少2种；
+对挖掘结果进行分析；
+可视化展示。
 
-    数据集选择：wine-reviews和oakland-crime-statistics-2011-to-2016这两个数据集
-    对应下载链接为：
-      https://www.kaggle.com/zynicide/wine-reviews
-      https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016
-
-    仓库中Wine_Reviews_130k_analysis.py文件和Wine_Reviews_150k_analysis.py文件分别是对Wine_Reviews数据集的两个子数据集进行分析与预处理。oakland-crime-statistics_analysis.py文件是集合oakland-crime-statistics数据集的六个数据子集进行分析与预处理。
-
-    具体如何运行代码请看使用说明。
-
-
-
-第二次作业地址：https://github.com/PCisCool/DataMining_homework2_for_crime-statistics-2011-to-2016.git
+所选数据集：Wine Reviews
